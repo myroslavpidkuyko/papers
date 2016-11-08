@@ -2,6 +2,9 @@ Author:
 Myroslav Pidkuyko
 John Smith
 
+Abstract:
+Brief snappy synopsis of the chamber work.
+
 Title:
 Some completely different title here
 
