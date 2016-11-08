@@ -6,3 +6,4 @@ Some title here
 
 Introduction:
 We investigate something here.
+Some work has already been done on this (Capes et al 2016).
