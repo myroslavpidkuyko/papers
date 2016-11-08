@@ -1,6 +1,6 @@
 Author: 
-Myroslav Pidkuyko
 John Smith
+Myroslav Pidkuyko
 
 Abstract:
 Brief snappy synopsis of the chamber work.
