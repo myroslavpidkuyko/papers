@@ -3,7 +3,7 @@ Myroslav Pidkuyko
 John Smith
 
 Title:
-Some yet another title here
+Some completely different title here
 
 Introduction:
 We investigate something here.
