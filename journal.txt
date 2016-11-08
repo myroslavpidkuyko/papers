@@ -1,6 +1,6 @@
 Author: 
-Myroslav Pidkuyko
-John Smith
+Myroslav Pidkuyko, University of Manchester
+John Smith, Made Up Uni
 
 Abstract:
 Brief snappy synopsis of the chamber work.
