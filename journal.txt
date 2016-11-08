@@ -1,8 +1,9 @@
 Author: 
 Myroslav Pidkuyko
+John Smith
 
 Title:
-Some title here
+Some new title here
 
 Introduction:
 We investigate something here.
