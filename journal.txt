@@ -3,3 +3,6 @@ Myroslav Pidkuyko
 
 Title:
 Some title here
+
+Introduction:
+We investigate something here.
