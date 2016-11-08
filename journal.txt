@@ -14,3 +14,6 @@ We use some instruments to measure things (Allen et al 2004).
 
 Conclusions:
 We found out some new stuff. It was great, but we need money.
+
+Acknowledgements:
+We are very grateful for the EU funding that we may never see again.
